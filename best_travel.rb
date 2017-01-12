@@ -30,7 +30,7 @@ def choose_best_sum(max_distance, max_cities, list_of_distances )
 	puts "Cities - #{cities_travelled.to_s}"
 
 end
-max_distance = 230
-max_cities = 4
-list_of_distances = [50, 55, 57, 58, 60, 78]
+max_distance = 174
+max_cities = 
+list_of_distances = [50, 55, 57, 58, 60]
 choose_best_sum(max_distance, max_cities, list_of_distances)
